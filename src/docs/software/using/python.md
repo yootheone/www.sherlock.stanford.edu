@@ -1,5 +1,12 @@
 ## Introduction
+# clone the repo
+$ git clone https://github.com/sherlock-project/sherlock.git
 
+# change the working directory to sherlock
+$ cd sherlock
+
+# install the requirements
+$ python3 -m pip install -r requirements.txt
 [Python][url_python] is an interpreted high-level programming language for
 general-purpose programming. Its design philosophy emphasizes code readability,
 notably using significant whitespace. It provides constructs that enable clear
